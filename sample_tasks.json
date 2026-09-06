@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Buy Groceries",
+        "status": "complete",
+        "deadline": null,
+        "priority": 5
+    },
+    {
+        "title": "Complete Python Assignment",
+        "status": "complete",
+        "deadline": null,
+        "priority": 5
+    },
+    {
+        "title": "Pay electricity bill",
+        "status": "pending",
+        "deadline": "2026-09-10",
+        "priority": 1
+    },
+    {
+        "title": "Complete the documentation for the group project",
+        "status": "pending",
+        "deadline": "2026-10-04",
+        "priority": 2
+    }
+]
